@@ -1,1 +1,5 @@
-export const DB_NAME ="feelreel"
+
+
+export const DB_NAME ="feelreel";
+
+
